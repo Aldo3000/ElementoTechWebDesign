@@ -3,6 +3,8 @@ Este proyecto consiste en un rediseño conceptual de un sitio web de un negocio 
 
 El proyecto puede usarse para mejorar la atraccion de clientes, instalar un pixel con la plataforma de anuncios de META para generar conversiones o leads mas calificados para ventas en WhatsApp. Anuncio -> Landing PAge -> WhatsApp. El comercio se observa mucho que sus ventas son en base por WhatsApp.
 
+Observa la pagina aqui: https://elementotechwebdesingconcept.netlify.app/
+
 ## 🧱 Antes vs Después
 
 ### Página principal
@@ -12,12 +14,15 @@ El proyecto puede usarse para mejorar la atraccion de clientes, instalar un pixe
 **Después**
 <img src="screenshots/elementotech renovado.png" width="400">
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Antes**
 <img src="screenshots/elementotech original 2.png" width="400">
 
 **Después**
 <img src="screenshots/elementotech renovado 2.png" width="400">
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Antes**
 <img src="screenshots/elementotech original 3.png" width="400">
